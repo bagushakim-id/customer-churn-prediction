@@ -1,1 +1,0 @@
-https://huggingface.co/spaces/bagushakim-id/churn-prediction
